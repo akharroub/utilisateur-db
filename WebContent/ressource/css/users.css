@@ -1,0 +1,33 @@
+h1{
+	color : silver;
+	font-size: 80px;
+	text-align: center;
+	border: black 2px solid;
+	background: #748b7e;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+#conteneur{
+	margin: auto;
+	
+}
+.block_user{
+	width: 450px;
+	display: inline-block;
+	border: 2px solid olive;
+	height: 300px;
+	background: #53ac92;
+	text-align: center;
+
+}
+.description{
+	color: blue;
+	
+}
+body{
+color:black;
+background-color:white;
+background-image:url(/utilisateur-db/ressource/images/fond2.jpg);
+}

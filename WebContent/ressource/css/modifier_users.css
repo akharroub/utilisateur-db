@@ -1,0 +1,32 @@
+h1{
+	color : silver;
+	font-size: 30px;
+	text-align: center;
+	border: black 1px solid;
+	background: #ac8053;
+}
+form{
+	
+	 width: 210px;
+    margin: auto;
+    color: #a8a56a;
+     margin: auto;
+    
+}
+.info{
+	width: 180px;
+    background: #a4936f;
+    color:#d7d6c6;
+    border-radius: 5px;
+
+	}
+	.dim_block4{
+    width: 80px;
+    margin-left: 3px;
+    border-radius: 5px;
+   
+	}
+	fieldset{
+    color: #997566;
+    border-color: #f3f2f1;
+	
